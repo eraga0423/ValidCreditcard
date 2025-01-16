@@ -11,8 +11,7 @@ This project is a comprehensive tool for managing, validating, and generating cr
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   ```
+   git clone https://github.com/eraga0423/ValidCreditcard.git
 2. Ensure you have Go (1.18 or later) installed.
 
 ## Compilation
