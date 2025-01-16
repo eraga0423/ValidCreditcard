@@ -45,4 +45,3 @@ bash
 bash
 Копировать код
 ./creditcard issue --brands=brands.txt --issuers=issuers.txt --brand=VISA --issuer="Kaspi Gold"
-# Вывод: Новый номер карты
